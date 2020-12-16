@@ -1,0 +1,5 @@
+FRONT-END
+
+Para executar os arquivos front-end, basta executar o comando:'npm install', este comando irá instalar todas as bibliotecas necessarias, depois abra o terminal na pasta raiz do projeto e executa o comando: 'npm run serve', com esse comando será aberto um servidor local.
+
+OBS: para a página funcionar normalmente o servidor da API deve está funcionando!!
