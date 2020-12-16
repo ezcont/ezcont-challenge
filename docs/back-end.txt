@@ -1,0 +1,4 @@
+BACK-END
+para executar a API, basta abrir o terminal dentro da pasta raiz, e executar o comando: (php artisan serve),
+esse comando iniciará a API.
+obs: se seu localhost for diferente de 127.0.0.1:8080, é preciso alterar isso no código.
